@@ -1,0 +1,7 @@
+[package]
+name = "fibonacci_project"
+version = "0.1.0"
+edition = "2021"
+
+# Dependencies (you can add others here if needed)
+[dependencies]
